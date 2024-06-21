@@ -1,4 +1,4 @@
-# Withline Clothing Application
+# WITHLINE Clothing Application
 
 Welcome to the Withline Clothing Application project repository! This project is a web application designed for a clothing store specializing in winter wear. It includes user authentication, product display, shopping cart, and payment functionalities.
 
