@@ -59,5 +59,5 @@ Zara Tahir
 
 Aliza Yasser
 > Email: yaliza3435@gmail.com  or  i230501@isb.nu.edu.pk
-> GitHub username: AlizaYasser
+> LinkedIn: www.linkedin.com/in/aliza-yasser
 
