@@ -48,29 +48,16 @@ To set up the project locally, follow these steps:
 
 Once the application is running, you can explore the Withline Clothing Application. You can sign up, log in, browse products, add items to the cart, and complete a purchase.
 
-## Project Structure
+## Contact
 
-- **images/**: Contains images used in the project.
-- **styles/**: Contains CSS files for styling the application.
-- **index.html**: The main landing page.
-- **login.html**: The login page.
-- **signup.html**: The signup page.
-- **product.html**: The product details page.
-- **cart.html**: The shopping cart page.
-- **payment.html**: The payment page.
+For any questions or inquiries, please contact:
 
-## Contributing
+Zara Tahir
+> Email: zaratahir1928@gmail.com  or  i230802@isb.nu.edu.pk
+> LinkedIn: www.linkedin.com/in/zara--tahir
 
-We welcome contributions to improve the Withline Clothing Application. To contribute, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Aliza Yasser
+> Email: yaliza3435@gmail.com  or  i230501@isb.nu.edu.pk
+> GitHub username: AlizaYasser
 
